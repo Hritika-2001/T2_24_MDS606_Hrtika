@@ -8,8 +8,8 @@ Supervisor: Dr. Lien Nguyen (Lien.Nguyen@spi.nsw.edu.au)
 
 ## Project Details:
 
-[Research Outline] (https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Research_Outline.md)
-[Literature Review] (https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Literature_Review.md)
+<br />[Research Outline](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Research_Outline.md)
+<br />[Literature Review](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Literature_Review.md)
 [Survey Design](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Survey_Design.md)
 [Data Analysis](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Data_Analysis.md)
 [Research Ethics Approval](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Research_Ethics_Approval.md)
