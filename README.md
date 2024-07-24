@@ -1,10 +1,10 @@
 # T2_24_MDS606_Hrtika
 
-## Overview of the project
-This is Research project journal for MDS606 Data Science Research and Ethics
-Student Name: Hritika Adhikari
-Student ID: SPI30688
-Supervisor: Dr. Lien Nguyen (Lien.Nguyen@spi.nsw.edu.au)
+## Overview of the project<br />
+This is Research project journal for MDS606 Data Science Research and Ethics<br />
+Student Name: Hritika Adhikari<br />
+Student ID: SPI30688<br />
+Supervisor: Dr. Lien Nguyen (Lien.Nguyen@spi.nsw.edu.au)<br />
 
 # Project Plan:<br />
 - Research Outline: 23:59 Monday 29 July
