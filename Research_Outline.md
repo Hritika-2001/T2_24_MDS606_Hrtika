@@ -3,11 +3,11 @@
 
 ## Research Question and Hypotheses:<br />
 
-### •	Research Question:<br />
+#### •	Research Question:<br />
 
 Analyse the effectiveness of AI in delivering personalized education to Graduate School Students
 
-### •	Hypotheses:<br />
+#### •	Hypotheses:<br />
 
 “Can e-learning platforms using AI provide better personalized education experiences?”<br />
 
