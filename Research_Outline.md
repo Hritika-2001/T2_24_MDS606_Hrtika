@@ -1,4 +1,4 @@
-# Research Topic:< /br>
+# Research Topic:< \br>
 AI in education: Investigate the impact of Generative AI in education
 
 Research Question and Hypotheses:
