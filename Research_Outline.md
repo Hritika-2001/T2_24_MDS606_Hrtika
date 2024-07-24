@@ -1,11 +1,11 @@
 ## Research Topic:<br />
- AI in education: Investigate the impact of Generative AI in education
+ AI in education: Investigate the adaptation of AI into personalized education system
 
 ## Research Question and Hypotheses:<br />
 
 #### •	Research Question:<br />
 
-Analyse the effectiveness of AI in delivering personalized education to Graduate School Students
+Analyse the effectiveness of AI in delivering personalized education to students in higher education setting
 
 #### •	Hypotheses:<br />
 
