@@ -33,6 +33,10 @@ Addressing these ethical considerations will ensure your research not only evalu
 
 
 ## Data Sources and Collection:<br />
+To assess the success of AI in providing personalised education in higher education, we may collect data from diverse sources utilising a variety of gathering methods. This includes:
+
+-Student Interaction and Usage Data: We will gather information about how students interact with the AI-powered platform, such as time spent on learning modules, types of content accessible, and completion rates.
+
 
 ## Data Analysis Approach:<br />
 
