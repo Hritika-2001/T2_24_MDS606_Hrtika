@@ -9,16 +9,10 @@ Analyse the effectiveness of AI in delivering personalized education to students
 
 #### •	Hypotheses:<br />
 
-“Can e-learning platforms using AI provide better personalized education experiences?”<br />
-
-"Does the integration of AI into e-learning platforms significantly improve the delivery of personalized education experiences?"<br />
-
-"Do traditional ways of teaching in e-learning platforms achieve similar personalized education outcomes compared to those using AI?"<br />
-
-- AI-based personalized education platform can significantly enhance students satistisfaction level.
-- AI-based personalized education platform can significantly improve students' performance/outcomes
-- AI-based personalized education platform can significantly improve students' experience
-- AI-based personalized education platform can significantly improve students' engagement/participation
+-"AI-driven personalized education platforms can notably boost students' satisfaction levels."
+-  "Using AI in personalized education platforms can lead to a marked improvement in student performance and outcomes."
+- "AI-powered personalized learning platforms can significantly enhance the overall educational experience for students."
+- "Incorporating AI in personalized education platforms can greatly increase student engagement and participation."
 
 
 ## Ethical Considerations:<br />
