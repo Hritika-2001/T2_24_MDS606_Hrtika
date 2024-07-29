@@ -80,4 +80,9 @@ By attaining these results, the study will show how AI may improve personalised 
 
 ## References:<br />
 
+- I. Pesek, N. Nosović and M. Krašna, "The Role of AI in the Education and for the Education," 2022 11th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2022, pp. 1-4, doi: 10.1109/MECO55406.2022.9797189. keywords: {Technological innovation;Embedded computing;Plagiarism;Education;Learning (artificial intelligence);Transforms;Iterative methods;education;AI;ICT;benefits;competences},
+
+- D. A. V, R. T. K. S. A, G. J. G. A. C. H, P. K. G. D. T, S. Thelijjagoda and P. Gunatilake, "AI-Powered Smart and Personalized Education Platform," 2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES), Chennai, India, 2023, pp. 1-7, doi: 10.1109/ICSES60034.2023.10465439. keywords: {Deep learning;Data analysis;Engineering profession;Data handling;Education;Focusing;Computer architecture;Online education;personalized learning;career guidance;Machine learning;multi-tenancy;subject stream recommendation;personalized assessment;learning strategies},
+
+
 
