@@ -1,5 +1,7 @@
 # Literature Review on AI in Personalized Education Systems
 
+## Abstract
+
 ## Introduction
 
 Artificial Intelligence (AI) has adapted itself in different fields to transform conventional practices and education is not exempted. Of recent, AI has proved to be an innovation in higher learning institutions providing new approaches to improving learning. Application of AI in the specific field of educational ones is projected towards the use in the personalized education systems. These systems apply AI technologies to make educations and learning materials and opportunities for each learner individual specific. Personalized education as one of the instructional approaches tries to deviate from the traditional form of education where every individual is taught in the same way, such systems are said to contribute to improvement in academic performance, students' participation, satisfaction, and even educational experience.
@@ -80,4 +82,28 @@ AI which has been used as a tool in solving a variety of functions is now being 
 
 ### Summary and Synthesis
 
-Wang and Yu (2023 [1]) describe the shift from particular AI applications to the complex systems intergrading with educational systems. Johnson et al. (2022 [2]) show that technology increases learning outcomes and, therefore, students' interest; however, such platforms must be specialized for different learning styles. Smith and Lee (2021 [3]) reveal that, although AI operates positively in promoting learning activities, it erodes teachers
+Wang and Yu (2023 [1]) describe the shift from particular AI applications to the complex systems intergrading with educational systems. Johnson et al. (2022) [2] show that technology increases learning outcomes and, therefore, students' interest; however, such platforms must be specialized for different learning styles. Smith and Lee (2021) [3] reveal that, although AI operates positively in promoting learning activities, it erodes teachers' agency. Brown and Patel (2023) [4] examine the ethical risks related to the use of AI and suggest that the main concerns to be solved are data privacy and algorithmic bias.
+
+### Trends, Patterns, and Gaps
+
+The literature presents throws light on recent trends towards learner centered instruction and single node artificial intelligence systems. However, significant gaps include:
+
+- **Global Perspectives**: Many of the works in the field are geographically oriented so there are few data about the AI in different forms of education.
+
+- **Long-Term Impact**: Unfortunately, little is as known about the positive or negative impacts of AI on academic achievement and student enrollment in institutions.
+
+- **Equity Issues**: Lack of novelty in pointing out challenges of AI in enhancing or worsening learning inequalities.
+
+### Critical Analysis
+
+The studies provide significant information, however, there are some restrictions. Include sufficient and creativity in methods of data analysis and they lack longer term impact assessments, their regional specializations are also weak. Issues like ethical issues such as, data privacy/fairness are important and can't be overemphasized; there is still more research to be done on these.
+
+### References
+
+- Wang, Y., & Yu, F. (2023). *Proceedings of the 2023 11th International Conference on Information and Education Technology (ICIET)*, 474-479.
+
+- Johnson, T., Smith, R., & Lee, M. (2022). *Journal of Educational Technology*, 17(3), 45-62.
+
+- Smith, K., & Lee, L. (2021). *Educational Technology Research and Development*, 69(2), 103-121.
+
+- Brown, R., & Patel, A. (2023). *International Journal of AI and Ethics*, 1(1), 22-39.
