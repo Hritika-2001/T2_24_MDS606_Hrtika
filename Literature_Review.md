@@ -4,6 +4,7 @@
 
 ## Introduction
 
+(Add research question)
 Artificial Intelligence (AI) has adapted itself in different fields to transform conventional practices and education is not exempted. Of recent, AI has proved to be an innovation in higher learning institutions providing new approaches to improving learning. Application of AI in the specific field of educational ones is projected towards the use in the personalized education systems. These systems apply AI technologies to make educations and learning materials and opportunities for each learner individual specific. Personalized education as one of the instructional approaches tries to deviate from the traditional form of education where every individual is taught in the same way, such systems are said to contribute to improvement in academic performance, students' participation, satisfaction, and even educational experience.
 
 However, the integration of AI into personalized education systems in higher learning institutions as it is apparent is still at its infancy. As institutions get involved with these technologies, it would then be significant to determine their impact, in a way that is credible and reliable. The purpose of this study is to understand the effect of AI-enabled learner centric platforms and interventions on major education process indicators, learning satisfaction, achievement, participation and experience. Moreover, it will discuss crucial, though often narrow down to the technical aspects, ethical factors such as fairness, data protection, and openness since the AI use in education must consider values across different domains.
@@ -17,10 +18,11 @@ At the same time it is important to take into account the ethical aspect of this
 ## Literature Review Process
 
 ### Search Strategy
-
+(IEEEXplore and Science Direct)
 The literature search is to be performed using peer-reviewed databases to make collection of studies, articles, and reports. Based on the literature trends in education technology & AI, important databases like ACM DL, IEEE Xplore, Jstor, Google Scholar & ScienceDirect will be used as they cover a wider area of education technology & AI research. The following key words will also be used in searching for literature by typing them in the search bar: 'AI in education', 'Personalized learning in higher education', 'AI in education platforms', 'student engagement with AI'. Other filter features such as date of the publication and subject specific filters shall be employed so as to eliminate irrelevant and older studies.
 
 ### Inclusion Criteria
+(spcific range of time, review articles)
 
 Since the aim will be to keep the identified literature relevant and valid, specific inclusion criteria will be used. Research work published in the last five years will only be included in the current review to make sure that it is up to date with the existing and emerging topics in the respective area of research. The selection will be based on the subject focus and type of publication: only the journal articles from peer-reviewed journals, conference papers and industry reports that discuss AI implementation in personalised education systems, especially within the context of higher education will be considered. Particular attention will be paid to the papers which gives quantitative data, use case-based approach, and reviews which contain both theoretical and practical aspects. Moreover, to obtain a richer perspective on AI in education, Priority will be given to literature that examines the ethical issues, challenges, and effects of AI in education, to ensure a comprehensive understanding of the topic.
 
