@@ -1,111 +1,66 @@
-# Literature Review on AI in Personalized Education Systems
-
-## Abstract
-
-## Introduction
-
-(Add research question)
-Artificial Intelligence (AI) has adapted itself in different fields to transform conventional practices and education is not exempted. Of recent, AI has proved to be an innovation in higher learning institutions providing new approaches to improving learning. Application of AI in the specific field of educational ones is projected towards the use in the personalized education systems. These systems apply AI technologies to make educations and learning materials and opportunities for each learner individual specific. Personalized education as one of the instructional approaches tries to deviate from the traditional form of education where every individual is taught in the same way, such systems are said to contribute to improvement in academic performance, students' participation, satisfaction, and even educational experience.
-
-However, the integration of AI into personalized education systems in higher learning institutions as it is apparent is still at its infancy. As institutions get involved with these technologies, it would then be significant to determine their impact, in a way that is credible and reliable. The purpose of this study is to understand the effect of AI-enabled learner centric platforms and interventions on major education process indicators, learning satisfaction, achievement, participation and experience. Moreover, it will discuss crucial, though often narrow down to the technical aspects, ethical factors such as fairness, data protection, and openness since the AI use in education must consider values across different domains.
-
-## Purpose and Aim of the Literature Review
-
-This literature review seeks to examine the role of Artificial Intelligence (AI) in the process of personalisation of learning in higher education environments. The purpose is to find ways in how AI can be integrated to enhance students' satisfaction level as well as performance due to the right content that suits them. With the help of several studies, as well as several real-life examples, this review is going to explore what is already being done well, what are the key issues, and how it is possible to improve this further, in the context of AI systems.
-
-At the same time it is important to take into account the ethical aspect of this matter, for instance, it is crucial to make sure that these systems do not have a bias, students are not violated in their right for privacy or the fact that they have the right to know why certain decision has been made by an AI. Such gaps will be underlined in this review and will also help to identify what area require more attention. It can be added that the goal is to contribute to the construction of a more effective and ethically appropriate model of personalized education in higher education with the help of AI.
-
-## Literature Review Process
-
-### Search Strategy
-(IEEEXplore and Science Direct)
-The literature search is to be performed using peer-reviewed databases to make collection of studies, articles, and reports. Based on the literature trends in education technology & AI, important databases like ACM DL, IEEE Xplore, Jstor, Google Scholar & ScienceDirect will be used as they cover a wider area of education technology & AI research. The following key words will also be used in searching for literature by typing them in the search bar: 'AI in education', 'Personalized learning in higher education', 'AI in education platforms', 'student engagement with AI'. Other filter features such as date of the publication and subject specific filters shall be employed so as to eliminate irrelevant and older studies.
-
-### Inclusion Criteria
-(spcific range of time, review articles)
-
-Since the aim will be to keep the identified literature relevant and valid, specific inclusion criteria will be used. Research work published in the last five years will only be included in the current review to make sure that it is up to date with the existing and emerging topics in the respective area of research. The selection will be based on the subject focus and type of publication: only the journal articles from peer-reviewed journals, conference papers and industry reports that discuss AI implementation in personalised education systems, especially within the context of higher education will be considered. Particular attention will be paid to the papers which gives quantitative data, use case-based approach, and reviews which contain both theoretical and practical aspects. Moreover, to obtain a richer perspective on AI in education, Priority will be given to literature that examines the ethical issues, challenges, and effects of AI in education, to ensure a comprehensive understanding of the topic.
-
-## Literature Review
-
 ### Introduction
 
-Education is an area of the economy that has embraced technology in its operations and especially what is known as Artificial Intelligence (AI). This review seeks to examine how AI assists in the area of improving student learning, assistances to students with learning disabilities and how AI helps in the translation of materials in education. This is in endeavours to ensure that the different students’ needs are met, as well as the efficient delivery of the teaching process.
+Artificial Intelligence (AI) has adapted itself in different fields to transform conventional practices, and education is no exception. Recently, AI has emerged as an innovative force in higher learning institutions, offering new approaches to enhancing learning. The application of AI in personalized education systems is a key area of focus. These systems leverage AI technologies to tailor education, learning materials, and opportunities to individual learners. Personalized education, as an instructional approach, diverges from the traditional one-size-fits-all method, aiming instead to improve academic performance, student participation, satisfaction, and overall educational experience.
 
-### Key Findings and Insights
+However, the integration of AI into personalized education systems in higher learning institutions is still in its infancy. As these institutions adopt these technologies, it becomes crucial to assess their impact in a credible and reliable manner. The purpose of this study is to understand the effects of AI-enabled, learner-centric platforms and interventions on major educational process indicators, such as learning satisfaction, achievement, participation, and experience. Additionally, the study will address crucial ethical factors—such as fairness, data protection, and transparency—since the use of AI in education must align with values across various domains.
 
-According to Pesek et al. (2022) the use of AI also offers the advantages of adapting to the learner thus improving the level of motivation [1]. With regards to teachers, AI’s data analysis leads to the ability to tailor the instruction approach [2]; for students, the use of adaptive applications and learning environments developed by AI benefits learners with disabilities [3]. Further, it facilitates the translation of resources so that educations face minor language barriers and other workloads [4][5].
+### Purpose and Aim of the Literature Review
 
-### Trends, Patterns, and Emerging Issues
+This literature review seeks to examine the role of Artificial Intelligence (AI) in the personalization of learning within higher education environments. The aim is to explore how AI can be integrated to enhance student satisfaction and performance by providing content that meets their individual needs. By analyzing several studies and real-life examples, this review will assess what is currently being done well, identify key issues, and explore how these systems can be further improved, particularly in the context of AI systems.
 
-Personalized learning through AI is another trend that is gaining momentum as it improves learning by making learning models unique and based on individual learning styles [6]. Nevertheless, AI implementation into current learning environments poses a significant problem. Some of the issues include: the maturity of the technology and the degree of readiness of the teachers [7].
+At the same time, it is essential to consider the ethical aspects of this matter, such as ensuring that these systems are free from bias, respect students' privacy, and maintain transparency in decision-making processes. This review will highlight these gaps and identify areas that require further attention. Ultimately, the goal is to contribute to the development of a more effective and ethically sound model of personalized education in higher education with the support of AI.
 
-### Gaps in the Research
+### Literature Review Process
 
-The present research gaps include for instance, studies that aim at establishing effects of AI implementation on students, regardless of context [8]. There are other issues as well, such as ethical, for instance, data privacy and algorithms bias, which should be also examined in detail [9]. Such practices include AI integration and how the effectiveness of AI in has been achieved [10].
+To conduct a comprehensive and focused review of the literature on AI in personalized learning within higher education, the following steps will be followed:
 
-### Critical Analysis
+- **Search Strategy**  
+  The literature search will be conducted using peer-reviewed databases to collect studies, articles, and reports. Based on trends in educational technology and AI research, key databases such as IEEE Xplore and ScienceDirect will be utilized. Relevant keywords, such as "AI in education," "Personalized learning in higher education," "AI in education platforms," and "student engagement with AI," will be used to guide the search. Additionally, filters such as publication date and subject-specific criteria will be applied to eliminate irrelevant and outdated studies.
 
-Some strengths of the AI state of the art are that 1) It does offer some valuable insights About AI 2) It lacks a comparative analysis based on a long-term view that looks at the impact of AI beyond the current status quo 3) It does offer a section on the ethical consideration of AI but it is very short [11][12]. Focusing on particular cases offers only limited views of the broad context of education, and hence the need to address more complex and less ethical approaches to applications of artificial intelligence.
+- **Inclusion Criteria**  
+  To ensure the relevance and validity of the identified literature, specific inclusion criteria will be applied. Only research published within the last five years (2019-2023) will be included in the review to maintain currency with existing and emerging topics in the field. The selection will focus on subject relevance and publication type, including peer-reviewed journal articles, conference papers, and review articles discussing AI implementation in personalized education systems, particularly in higher education. Priority will be given to literature that provides quantitative data, uses case-based approaches, and includes both theoretical and practical aspects. Additionally, literature examining ethical issues, challenges, and the effects of AI in education will be prioritized to ensure a comprehensive understanding of the topic.
 
-#### References for Literature Review 1
+### Literature Review
 
-1. Pesek, N., Nosović, N., & Krašna, M. (2022). Artificial Intelligence in Education: A Review. *Journal of Educational Technology*, 15(3), 45-60.
+- **Introduction**  
+  The impacts of Artificial Intelligence (AI) on education are increasingly evident, particularly in the area of Personalized Learning mechanisms. This review discusses the current state of research on AI in personalized learning, including the methods employed, research findings, observable trends, and existing research gaps.
 
-2. Pesek, N., Nosović, N., & Krašna, M. (2022). AI-Driven Personalization in Learning. *Journal of Educational Technology*, 15(3), 45-60.
+- **Methodologies and Findings**  
+  AI's integration into personalized education occurs at various levels, from individual learners and their classes to entire learner cohorts. Various methods, such as data mining and deep learning, are employed differently across research, each contributing to the development of more flexible educational tools.
 
-3. Pesek, N., Nosović, N., & Krašna, M. (2022). Supporting Students with Special Needs Using AI. *Journal of Educational Technology*, 15(3), 45-60.
+  - At the **learner level**, AI focuses on adaptive learning processes tailored to a student's performance and characteristics. Intelligent Tutoring Systems (ITS), for example, provide personalized feedback, facilitating usage that best suits the individual learner's needs. Such systems can increase student participation and instructional efficacy by delivering targeted interventions.
 
-4. Pesek, N., Nosović, N., & Krašna, M. (2022). AI in Translating Educational Materials. *Journal of Educational Technology*, 15(3), 45-60.
+  - In the **learning context**, AI tools assist teachers with classroom organization and instructional tasks. For instance, AI-driven grading systems streamline scoring and individualize instruction, while virtual reality (VR) enhances the teaching process and classroom atmosphere. These tools not only aid classroom management but also integrate AI into traditional teaching methods.
 
-5. Pesek, N., Nosović, N., & Krašna, M. (2022). Reducing Educator Workload with AI. *Journal of Educational Technology*, 15(3), 45-60.
+  - At the **cohort level**, AI is used to collect data from numerous students to identify those at risk of poor performance or dropout. Applications in predictive analytics and early intervention systems monitor student interactions to forecast academic performance, aiming to improve retention rates and identify effective educational processes.
 
-6. Pesek, N., Nosović, N., & Krašna, M. (2022). Personalized Learning Trends in AI. *Journal of Educational Technology*, 15(3), 45-60.
+- **Data-Driven Approaches**  
+  Various research communities focus on AI in education from different perspectives:
 
-7. Pesek, N., Nosović, N., & Krašna, M. (2022). Challenges in Integrating AI in Education. *Journal of Educational Technology*, 15(3), 45-60.
+  - The **Educational Data Mining (EDM)** community addresses educational issues through data mining.
+  - The **Society for Learning Analytics Research (SoLAR)** explores the impact of learning analytics on educational practices.
+  - The **International Artificial Intelligence in Education Society (IAIED)** collaborates with researchers from various fields to create intelligent learning environments.
 
-8. Pesek, N., Nosović, N., & Krašna, M. (2022). Long-Term Impact of AI in Education. *Journal of Educational Technology*, 15(3), 45-60.
+- **Applications and Tools**  
+  AI has been applied in several key educational areas, such as grading, personalized learning, and sentiment analysis. For example, intelligent tutoring systems offer individualized learning environments, while recommendation systems suggest study materials based on personal data. These tools aim to enhance learning by matching educational aids to each learner's capabilities.
 
-9. Pesek, N., Nosović, N., & Krašna, M. (2022). Ethical Concerns in AI Education. *Journal of Educational Technology*, 15(3), 45-60.
+- **Trends and Patterns**  
+  Current surveys indicate a growing adoption of AI to increase student interest and achievement. AI systems have facilitated the individualization of learning activities based on student preferences and success rates. However, there are concerns about ethical issues, such as data privacy and algorithmic bias, which require further exploration.
 
-10. Pesek, N., Nosović, N., & Krašna, M. (2022). Standardizing AI Integration Practices. *Journal of Educational Technology*, 15(3), 45-60.
+- **Lack of Research and Opportunities for Future Research**  
+  Several research gaps are evident from the literature:
 
-11. Pesek, N., Nosović, N., & Krašna, M. (2022). Evaluating AI's Long-Term Effects. *Journal of Educational Technology*, 15(3), 45-60.
+  - There is a need for more longitudinal studies to determine the impact of AI on learning achievement over time.
+  - Further research is needed on combining AI with other teaching approaches and evaluating the outcomes in different learning environments.
 
-12. Pesek, N., Nosović, N., & Krašna, M. (2022). Ethical Implications of AI in Education. *Journal of Educational Technology*, 15(3), 45-60.
+  Addressing these gaps will help to better understand AI's role in education.
 
----
+- **Critical Analysis**  
+  The literature review suggests that AI can significantly contribute to personalized education systems and approaches. Research indicates that learning is more effective when AI is applied to tutoring and feedback. However, concerns about ethical issues and limitations in the research, such as small sample sizes and biases, highlight the need for continued investigation.
 
-## Literature Review
+- **Ethical Considerations and Limitations**  
+  Ethical issues in AI application in education include user rights and freedoms, algorithmic unfairness, and accountability. Schools and enterprises using AI tools must ensure that these tools are accountable and ethical to deliver the best results. Addressing these issues is essential to ensure the appropriate use of AI in the education sector.
 
-### Introduction
+### Conclusion
 
-AI which has been used as a tool in solving a variety of functions is now being used to deliver personalised learning to students in higher learning institutions. It is essential for this reason, to critique its efficiency with the purpose of fine-tuning educational practices.
-
-### Summary and Synthesis
-
-Wang and Yu (2023 [1]) describe the shift from particular AI applications to the complex systems intergrading with educational systems. Johnson et al. (2022) [2] show that technology increases learning outcomes and, therefore, students' interest; however, such platforms must be specialized for different learning styles. Smith and Lee (2021) [3] reveal that, although AI operates positively in promoting learning activities, it erodes teachers' agency. Brown and Patel (2023) [4] examine the ethical risks related to the use of AI and suggest that the main concerns to be solved are data privacy and algorithmic bias.
-
-### Trends, Patterns, and Gaps
-
-The literature presents throws light on recent trends towards learner centered instruction and single node artificial intelligence systems. However, significant gaps include:
-
-- **Global Perspectives**: Many of the works in the field are geographically oriented so there are few data about the AI in different forms of education.
-
-- **Long-Term Impact**: Unfortunately, little is as known about the positive or negative impacts of AI on academic achievement and student enrollment in institutions.
-
-- **Equity Issues**: Lack of novelty in pointing out challenges of AI in enhancing or worsening learning inequalities.
-
-### Critical Analysis
-
-The studies provide significant information, however, there are some restrictions. Include sufficient and creativity in methods of data analysis and they lack longer term impact assessments, their regional specializations are also weak. Issues like ethical issues such as, data privacy/fairness are important and can't be overemphasized; there is still more research to be done on these.
-
-### References
-
-- Wang, Y., & Yu, F. (2023). *Proceedings of the 2023 11th International Conference on Information and Education Technology (ICIET)*, 474-479.
-
-- Johnson, T., Smith, R., & Lee, M. (2022). *Journal of Educational Technology*, 17(3), 45-62.
-
-- Smith, K., & Lee, L. (2021). *Educational Technology Research and Development*, 69(2), 103-121.
-
-- Brown, R., & Patel, A. (2023). *International Journal of AI and Ethics*, 1(1), 22-39.
+AI has the potential to address challenges in the learning environment, enabling each learner to receive the education they deserve. Contemporary studies highlight the numerous advantages of AI interventions but also emphasize the need for more research into their long-term effects, integration with conventional approaches, and application in diverse educational settings. Incorporating these areas will be crucial for optimizing AI's role in education.
