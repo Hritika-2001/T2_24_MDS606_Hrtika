@@ -49,6 +49,8 @@
    - Sometimes
    - Often
    - Always
+  
+     everyday or more often/ 3-6 times a week/ 1-2 times a week/less than once a week/never
 
 4. Overall Satisfaction: On a scale of 1 to 5, how satisfied are you with your overall experience using AI-driven learning platforms?
    - Very Dissatisfied
