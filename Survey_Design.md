@@ -37,66 +37,64 @@
    - Fourth Year or above
 
 2. What is your field of study?
-   - Science
-   - Arts
-   - Commerce
-   - Engineering
+   - Social Science
+   - Arts and Humanity
+   - Business and Commerce
+   - Engineering and IT
    - Other (please specify)
 
 3. Experience with AI in Learning: How often do you use AI-driven personalized learning tools (e.g., adaptive platforms, virtual tutors)?
-   - Never
-   - Rarely
-   - Sometimes
-   - Often
-   - Always
-  
-     everyday or more often/ 3-6 times a week/ 1-2 times a week/less than once a week/never
+   - Once a week or never
+   - 1-2 times a week
+   - 3-4 times a week
+   - 5-6 times a week
+   - Everyday
 
-4. Overall Satisfaction: On a scale of 1 to 5, how satisfied are you with your overall experience using AI-driven learning platforms?
+4. Content Relevance and Personalization: How satisfied are you with the way AI personalizes learning content to your specific needs?
    - Very Dissatisfied
    - Dissatisfied
    - Neutral
    - Satisfied
    - Very Satisfied
 
-5. Content Relevance and Personalization: How satisfied are you with the way AI personalizes learning content to your specific needs?
-   - Very Dissatisfied
-   - Dissatisfied
-   - Neutral
-   - Satisfied
-   - Very Satisfied
-
-6. Ease of Use: How would you rate the ease of use of AI-driven educational tools compared to traditional learning methods?
+5. Ease of Use: How would you rate the ease of use of AI-driven educational tools compared to traditional learning methods?
    - Very Difficult
    - Difficult
    - Neutral
    - Easy
    - Very Easy
 
-7. Feedback and Support: How satisfied are you with the feedback and support provided by AI-driven learning tools?
+6. Feedback and Support: How satisfied are you with the feedback and support provided by AI-driven learning tools?
    - Very Dissatisfied
    - Dissatisfied
    - Neutral
    - Satisfied
    - Very Satisfied
 
-8. Impact on Learning Outcomes: To what extent do you agree that AI-powered personalized learning has positively impacted your academic performance?
+7. Impact on Learning Outcomes: To what extent do you agree that AI-powered personalized learning has positively impacted your academic performance?
    - Strongly Disagree
    - Disagree
    - Neutral
    - Agree
    - Strongly Agree
 
-9. Engagement Level: Compared to traditional learning methods, how would you rate your engagement with AI-driven personalized learning tools?
+8. Engagement Level: Compared to traditional learning methods, how would you rate your engagement with AI-driven personalized learning tools?
    - Much Less Engaged
    - Less Engaged
    - About the Same
    - More Engaged
    - Much More Engaged
+     
+9. Overall Satisfaction: On a scale of 1 to 5, how satisfied are you with your overall experience using AI-driven learning platforms?
+   - Very Dissatisfied
+   - Dissatisfied
+   - Neutral
+   - Satisfied
+   - Very Satisfied
 
 #### Open-Ended Questions (Qualitative)
-10. What aspects of AI-driven personalized learning platforms do you find most satisfying?
-11. What would enhance your satisfaction with AI-driven learning platforms?
+10. What would enhance your satisfaction with AI-driven learning platforms?
+11. Do you have any concerns or recommendations regarding AI-driven learning platforms?
 
 ---
 
