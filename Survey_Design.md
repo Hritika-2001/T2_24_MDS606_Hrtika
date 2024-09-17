@@ -33,8 +33,7 @@
 1. What is your current year of study?
    - First Year
    - Second Year
-   - Third Year
-   - Fourth Year or above
+   - Third Year or above
 
 2. What is your field of study?
    - Social Science
@@ -44,11 +43,11 @@
    - Other (please specify)
 
 3. Experience with AI in Learning: How often do you use AI-driven personalized learning tools (e.g., adaptive platforms, virtual tutors)?
-   - Once a week or never
+   - Never
+   - less than once a week
    - 1-2 times a week
-   - 3-4 times a week
-   - 5-6 times a week
-   - Everyday
+   - 3-6 times a week
+   - everyday or more often
 
 4. Content Relevance and Personalization: How satisfied are you with the way AI personalizes learning content to your specific needs?
    - Very Dissatisfied
